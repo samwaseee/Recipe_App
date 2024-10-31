@@ -16,7 +16,8 @@ instructions for each recipe.
 
 ## Screenshots
 
-![photo-collage.png (1).png](..%2Fscreenshots%2Fphoto-collage.png%20%281%29.png)
+![photo-collage png (1)](https://github.com/user-attachments/assets/31d54d2d-a167-4871-9d15-3230c57d9132)
+
 
 ### Splash Screen
 
